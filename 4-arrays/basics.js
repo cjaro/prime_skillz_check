@@ -8,7 +8,7 @@ var arr1 = [2, 3, 8, 10];
 
 // 3 - Console log the value of arr1 at index 2.
 
-console.log(arr1[2]);
+console.log(var indexTwo = arr1[2]);
 
 // 4 - Console log the length of both arrays.
 
